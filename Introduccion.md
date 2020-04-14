@@ -16,7 +16,9 @@
             path   : "editormd/lib/"
         });
     });
-</script
+</script>
+
+
 # Que es terraform
 
 ![](https://www.developerro.com/public/uploads/2019/07/hashicorp-terraform.png)
