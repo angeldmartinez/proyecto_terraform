@@ -1,24 +1,3 @@
-<link rel="stylesheet" href="editormd/css/editormd.css" />
-<div id="test-editor">
-    <textarea style="display:none;">### Editor.md
-
-**Editor.md**: The open source embeddable online markdown editor, based on CodeMirror & jQuery & Marked.
-</textarea>
-
-</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="editormd/editormd.min.js"></script>
-<script type="text/javascript">
-    $(function() {
-        var editor = editormd("test-editor", {
-            // width  : "100%",
-            // height : "100%",
-            path   : "editormd/lib/"
-        });
-    });
-</script>
-
-
 # Que es terraform
 
 ![](https://www.developerro.com/public/uploads/2019/07/hashicorp-terraform.png)
@@ -91,7 +70,7 @@ Instalación de Terraform:
 
 6.  Por último comprobamos que se ha instalado bien ejecutando el comando siguiente:
 
-        [root@zenbook terraform]# terraform --version
+        [root@wollfex terraform]# terraform --version
         Terraform v0.11.13
 
 ## Ejemplos de uso de terraform
